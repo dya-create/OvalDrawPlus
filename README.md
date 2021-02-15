@@ -14,6 +14,9 @@ Prerequisite: most recent version of JRE, JDK is installed
 Installation:
 
 1) Clone the repo
+
+https://github.com/dya-create/OvalDrawPlus
+
 2) utilize command line to open the application
 
 License: This is licensed under MIT License. Please see LICENSE.md file for details.
